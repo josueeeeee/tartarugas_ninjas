@@ -6,4 +6,6 @@ O famoso grupo de 4 integrantes que lutam contra a desigualdade do mundo.
 - Gustavo "Rafaello" Rocha
 - Rodrigo "Leonardo" Kalil
 
+---
+Nosso líder
 - Rafel "Splinter" de Pinho
